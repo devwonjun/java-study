@@ -33,7 +33,5 @@ class OpeartorEx30 {
         System.out.printf("%d >> %2d = %4d  \t%s%n", dec , 0, dec >> 0, toBinaryString(dec >> 0));
         System.out.printf("%d >> %2d = %4d \t%s%n", dec , 32, dec >> 32, toBinaryString(dec >> 32));
 
-        
-
     }
 }
