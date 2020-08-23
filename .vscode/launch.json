@@ -2,6 +2,46 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - DeckTest",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "DeckTest",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DeskTest",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "DeskTest",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DrawShape",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "DrawShape",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CaptionTvTest",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "CaptionTvTest",
+            "args": ""
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - CardTest",
             "request": "launch",
             "cwd": "${workspaceFolder}",
